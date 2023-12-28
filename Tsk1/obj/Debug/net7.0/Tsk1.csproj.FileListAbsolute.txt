@@ -1,0 +1,14 @@
+C:\Users\The Prophet\Desktop\C#\Tsk1\bin\Debug\net7.0\Tsk1.exe
+C:\Users\The Prophet\Desktop\C#\Tsk1\bin\Debug\net7.0\Tsk1.deps.json
+C:\Users\The Prophet\Desktop\C#\Tsk1\bin\Debug\net7.0\Tsk1.runtimeconfig.json
+C:\Users\The Prophet\Desktop\C#\Tsk1\bin\Debug\net7.0\Tsk1.dll
+C:\Users\The Prophet\Desktop\C#\Tsk1\bin\Debug\net7.0\Tsk1.pdb
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.AssemblyInfoInputs.cache
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.AssemblyInfo.cs
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.csproj.CoreCompileInputs.cache
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.dll
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\refint\Tsk1.dll
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.pdb
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\Tsk1.genruntimeconfig.cache
+C:\Users\The Prophet\Desktop\C#\Tsk1\obj\Debug\net7.0\ref\Tsk1.dll
