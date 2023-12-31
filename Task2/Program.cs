@@ -15,11 +15,10 @@ long product2 = l1 * i1;
 double product3 = i1 * d1;
 Console.WriteLine(product1);
 Console.WriteLine(product2);
-Console.WriteLine(product3);
 
 int qoutient = i1 / i2;
 Console.WriteLine(qoutient);
 
 d1 = 6;
-double countion2 = i1 / d1;
-Console.WriteLine(countion2);
+double qountion2 = i1 / d1;
+Console.WriteLine(qountion2);
